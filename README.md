@@ -1,4 +1,4 @@
-```markdown
+```
 <p align="center">
   <img src="https://img.shields.io/badge/XHTTP-Panel-0f172a?style=for-the-badge&labelColor=0f172a&color=22c55e" alt="XHTTP Panel" />
 </p>
