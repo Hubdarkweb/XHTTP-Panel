@@ -5,7 +5,7 @@
 <h1 align="center">XHTTP Panel</h1>
 
 <p align="center">
-  <strong>یک پنل برای دیپلوی، مدیریت و مانیتورینگ ریلی VLESS+XHTTP روی ۶ پلتفرم ابری</strong>
+  <strong>A panel for VLESS+XHTTP rail deployment, management and monitoring on 6 cloud platforms</strong>
 </p>
 
 <p align="center">
