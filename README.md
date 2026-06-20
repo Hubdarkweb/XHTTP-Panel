@@ -1,4 +1,3 @@
-```
 <p align="center">
   <img src="https://img.shields.io/badge/XHTTP-Panel-0f172a?style=for-the-badge&labelColor=0f172a&color=22c55e" alt="XHTTP Panel" />
 </p>
@@ -6,7 +5,7 @@
 <h1 align="center">XHTTP Panel</h1>
 
 <p align="center">
-  <strong>A panel for deploying, managing, and monitoring VLESS+XHTTP relays on 6 cloud platforms</strong>
+  <strong>یک پنل برای دیپلوی، مدیریت و مانیتورینگ ریلی VLESS+XHTTP روی ۶ پلتفرم ابری</strong>
 </p>
 
 <p align="center">
