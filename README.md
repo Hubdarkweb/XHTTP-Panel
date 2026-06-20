@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/Hub7c"><img src="https://img.shields.io/badge/Telegram-avaco__cloud-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://youtube.com/@Hubdarkweb"><img src="https://img.shields.io/badge/YouTube-avaco__cloud-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://t.me/Hub7c"><img src="https://img.shields.io/badge/Telegram-topnet__cloud-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://youtube.com/@Hubdarkweb"><img src="https://img.shields.io/badge/YouTube-topnet__cloud-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 <p align="center">
